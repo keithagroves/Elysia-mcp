@@ -17,11 +17,9 @@
     "bun-types": "latest"
   },
   "dependencies": {
-    "@elysiajs/static": "^1.2.0",
-    "elysia": "^1.2.24",
-    "fastmcp": "^1.20.2",
-    "hono": "^4.7.4",
-    "timers": "^0.1.1",
+    "@modelcontextprotocol/sdk": "^1.7.0",
+    "pino": "^9.6.0",
+    "pino-pretty": "^13.0.0",
     "zod": "^3.24.2"
   }
 }
